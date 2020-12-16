@@ -2,9 +2,9 @@
 
 Project Team:
 
-* Liza Marie Soriano (lizamarie1218)
-* Ronald Kwan (rkwan)
-* Kelsey Anderson (kjanderson)
+* Liza Marie Soriano (lizamarie1218@uchicago.edu)
+* Ronald Kwan (rkwan@uchicago.edu)
+* Kelsey Anderson (kjanderson@uchicago.edu)
 
 
 ## About
